@@ -1,0 +1,17 @@
+<svg width="200" height="48" viewBox="0 0 200 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Grid icon -->
+  <g>
+    <rect x="8" y="8" width="10" height="10" fill="#ff6b35" rx="1"/>
+    <rect x="20" y="8" width="10" height="10" fill="#ff6b35" rx="1"/>
+    <rect x="32" y="8" width="10" height="10" fill="#d63e2f" rx="1"/>
+    
+    <rect x="8" y="20" width="10" height="10" fill="#d63e2f" rx="1"/>
+    <rect x="20" y="20" width="10" height="10" fill="#ff6b35" rx="1"/>
+    <rect x="32" y="20" width="10" height="10" fill="#ff6b35" rx="1"/>
+  </g>
+  
+  <!-- Text: TekGridAI -->
+  <text x="50" y="30" font-family="Grenze, serif" font-size="18" font-weight="600" fill="#ffffff" letter-spacing="0.5">
+    TekGridAI
+  </text>
+</svg>
